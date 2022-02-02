@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Franco Fernandez</h1>
 <h3 align="center">A passionate Fullstack Developer from Bs. As - Argentina</h3>
 <br/>
-/*<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/vZsrXCHg/coffee.gif">*/
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/9d/fe/b8/9dfeb8817ad82d4d6cb0bcb33a64ccfa.jpg">
 
 
 <h2>About me</h2>
