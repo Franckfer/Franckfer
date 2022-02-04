@@ -29,7 +29,6 @@
 
 <br/>
 
-[![Franckfer's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Franckfer&&theme=xcode)](https://github.com/Franckfer)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Franckfer&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Franckfer" /></p>
